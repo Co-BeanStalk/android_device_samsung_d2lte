@@ -4,7 +4,7 @@
     "target_path": "device/samsung/msm8960-common"
   }
   {
-    "remote="cm"
+    "remote": "cm"
     "repository": "android_device_samsung_qcom-common"
     "target_path": "device/samsung/qcom-common"
     "revision": "cm-11.0"

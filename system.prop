@@ -1,4 +1,5 @@
 # system.prop for d2lte
+ro.product.device=d2lte
 #
 
 # audio

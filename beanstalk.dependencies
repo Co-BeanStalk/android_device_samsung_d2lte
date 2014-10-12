@@ -6,6 +6,12 @@
     "revision": "cm-11.0"    
   },
   {
+    "remote": "cm",  
+    "repository": "android_kernel_samsung_d2",
+    "target_path": "kernel/samsung/d2",
+    "revision": "cm-11.0"    
+  },  
+  {
     "remote": "cm",
     "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",

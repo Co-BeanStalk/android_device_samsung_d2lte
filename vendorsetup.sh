@@ -1,2 +1,1 @@
-add_lunch_combo cm_d2lte-eng
-
+add_lunch_combo bliss_d2lte-userdebug
